@@ -1,6 +1,3 @@
 [submodule "aufgabe1"]
 	path = aufgabe1
 	url = git@github.com:kollerma/aufgabe1.git
-[submodule "aufgabe2"]
-	path = aufgabe2
-	url = git@github.com:kollerma/aufgabe2.git
